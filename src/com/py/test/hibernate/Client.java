@@ -51,7 +51,7 @@ public class Client {
 			}
 		}
 		  
-		  
+		  // 关闭factory 这个是Github.com网页端更新的
 		  fac.close();
 	}
 
