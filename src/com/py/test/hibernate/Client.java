@@ -11,6 +11,7 @@ import org.hibernate.classic.Session;
 public class Client {
 
 	public static void main(String[] args) {
+		  // test merge on the windows client
 		
            //读取hibernate.cfg.xml文件
 		  Configuration cfg = new Configuration().configure();
